@@ -1,0 +1,4 @@
+bash
+git add ban.py
+git commit -m "Initial commit with ban script"
+git push origin main
